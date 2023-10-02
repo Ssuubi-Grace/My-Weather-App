@@ -1,0 +1,104 @@
+
+.container{
+    /*background-color: #275688;*/
+    border: 3px solid #0C00FF;
+    background-color: #507eb0;
+
+   /* background-color:  #212529;*/
+
+   
+    max-width: 800px;
+    border-radius: 20px;
+    margin-top: 40px;
+    
+}
+.sectionl{
+    margin-top: 50px;
+    
+}
+.content{
+    padding-top: 30px;
+
+}
+.logo{
+    width: 40px;
+    border-radius: 50%;
+}
+.btn{
+    background: #F2F2F4;
+}
+.cross{
+    padding-left: 150px;
+}
+#btn2{
+    /*background-color: #006FFF;*/
+    background-color: #0C00FF;
+    color: #ffffff;
+}
+#searchbtn{
+    background-color: #0C00FF;
+    color: #ffffff;
+     
+}
+#currentbtn{
+  background-color:#157347;
+}
+
+.section2{
+    margin-top: 40px;
+}
+ul {
+    list-style: none;
+        margin: 0 0 10px;
+        padding: 0;
+      }
+.week-day{
+    color: #2c2c2e;
+    font-weight: 400;
+
+}
+.temp{
+    margin: 0;
+     padding: 0; 
+     font-size: 50px;
+     font-weight: bold;
+}
+.units a{
+    font-size: 25px;
+    text-decoration: none;
+}
+.units sup {
+    vertical-align: super;
+}
+.sun{
+    font-size: 40px;
+    margin: 0;
+     padding: 0;
+}
+.el{
+    color: #2c2c2e;
+    font-weight: 400;
+
+}
+.elements{
+    padding: 0;
+    font-weight: 400;  
+}
+.measurements{
+    color: #FF822D;
+}
+.section3{
+    margin-top: 40px;
+}
+.day{
+    color: #ffffff;
+}
+.emoji{
+    font-size: 30px;
+}
+.name{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    color: #FF822D;
+}
